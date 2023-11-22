@@ -330,7 +330,7 @@ Transformation effect can also be combined the following way:
 Editing existing image formats
 ------------------------------
 
-If you edit exist image formats you need to run the following command to regenerate exist images:
+If you edit existing image formats you need to run the following command to regenerate existing images:
 
 If you modify an existing image format configuration, you need to regenerate already generated images
 by executing the following command:
